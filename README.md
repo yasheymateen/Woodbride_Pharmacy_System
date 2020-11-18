@@ -42,7 +42,7 @@ o	Windows/ MacOS/ Linux operating system.<br>
 o	JRE and JDK.<br>
 o	MySQL server (WAMP or XAMPP or any)<br>
 
-# Chapter 2 - DESIGN<br>
+# Section 2 - DESIGN<br>
 Database Design is a collection of processes that facilitate the designing, development, implementation and maintenance of enterprise data management systems.<br>
 It helps produce database systems:<br>
 o	That meet the requirements of the users<br>
@@ -65,7 +65,7 @@ An entity–relationship model describes interrelated things of interest in a sp
  Fig 2: Relational Schema <br><br>
 Relational schema is a collection of meta-data. Database schema describes the structure and constraints of data representing in a particular domain (Refer Fig 2).
 
-# Chapter 3 - IMPLEMENTATION <br>
+# Section 3 - IMPLEMENTATION <br>
 **Description on Implementation**<br>
 The goal of this application is to manage the medicines and various function of the pharmacy. <br><br>
 **List of modules:**<br>
@@ -79,7 +79,7 @@ o	User/Settings<br>
 o	Messaging<br>
 
 
-# Chapter 4 - Result and Discussion<br>
+# Section 4 - Result and Discussion<br>
 By using MySQL commands and its database this website Pharmacy management tends to store all the data received from the users including drugs sales details and the profit made by the owners are all in this data base. This website allows the user to generate invoices for sales, check expiry and quantity remaining of the drugs. It also provides user with options to renew validity and add more drugs into the store and update the database accordingly. By using xampp server these database commands are easily initiated into the database and the ER diagram with relational schema diagrams helps us to make the structure of the database faster and it was easier to make them understand the needs of the website.<br>
 
 **Login Information** <br>
